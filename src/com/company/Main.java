@@ -10,7 +10,7 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter your name");
         String result=sc.nextLine().trim();
-        System.out.println(resul);
+        System.out.println(result);
 	// write your code here
     }
 }
